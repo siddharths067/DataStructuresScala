@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mG:\Scala Projects\data-structures-scala\src\main\scala\example\Hello.scala:8:16: value incl is not a member of serial.BinarySearchTree[Int][0m
+[0m[[0m[31merror[0m] [0m[0m  println(tree incl 4 incl 3 incl 5)[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
